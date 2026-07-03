@@ -9,17 +9,13 @@
 <br/>
 
 <p>
-  <a href="https://github.com/shehzadasad">
-    <img src="https://img.shields.io/badge/GitHub-shehzadasad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://github.com/shehzadasad"><img src="https://img.shields.io/badge/GitHub-shehzadasad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Islamabad,%20Pakistan-2E67F8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=shehzadasad&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
-<a href="https://github.com/shehzadasad?tab=followers">
-  <img src="https://img.shields.io/github/followers/shehzadasad?label=Followers&style=flat-square&color=2E67F8" alt="Followers" />
-</a>
+<a href="https://github.com/shehzadasad?tab=followers"><img src="https://img.shields.io/github/followers/shehzadasad?label=Followers&style=flat-square&color=2E67F8" alt="Followers" /></a>
 
 </div>
 

@@ -1,4 +1,4 @@
-﻿<!-- Profile README for github.com/shehzadasad -->
+<!-- Profile README for github.com/shehzadasad -->
 
 <div align="center">
 

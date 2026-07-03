@@ -1,13 +1,10 @@
-<!--
-  Profile README for github.com/shehzadasad
-  Tip: add your LinkedIn, portfolio URL and email in the "Connect" section below when ready.
--->
+<!-- Profile README for github.com/shehzadasad -->
 
 <div align="center">
 
 # Shehzad Asadullah
 
-### Full-Stack Web Developer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&color=2E67F8&center=true&vCenter=true&width=820&height=60&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Angular;Node.js+%7C+Laravel+%7C+Express;Fintech+%26+Payment+Integrations" alt="Full-Stack Web Developer" />
 
 <p>
   <a href="https://github.com/shehzadasad">
@@ -96,18 +93,32 @@ Full-stack web developer from Islamabad, Pakistan, building web applications end
 
 ---
 
+## Top Languages
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehzadasad&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+
+</div>
+
+---
+
 ## Connect
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/shehzad-asadullah-65441419a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:shehzadassadullah61@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://wa.me/923196444969">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 <a href="https://github.com/shehzadasad">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<!-- Add these when ready:
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2E67F8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
--->
 
 </div>
 

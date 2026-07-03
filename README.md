@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E67F8,100:8E2DE2&height=210&section=header&text=Shehzad%20Asadullah&fontSize=48&fontColor=ffffff&desc=Full-Stack%20Web%20%26%20App%20Developer&descSize=20&descAlignY=64" alt="Shehzad Asadullah" />
+# Shehzad Asadullah
+
+### Full-Stack Web Developer
 
 <p>
   <a href="https://github.com/shehzadasad">
@@ -26,7 +28,7 @@
 
 ## About Me
 
-Full-stack developer from Islamabad, Pakistan, building web and mobile applications end to end. I work across modern JavaScript/TypeScript frontends and multiple backend stacks, with a strong focus on fintech products: BNPL checkouts, merchant and customer portals, invoicing and financing platforms, and payment-gateway integrations.
+Full-stack web developer from Islamabad, Pakistan, building web applications end to end. I work across modern JavaScript/TypeScript frontends and multiple backend stacks, with a strong focus on fintech products: BNPL checkouts, merchant and customer portals, invoicing and financing platforms, and payment-gateway integrations.
 
 - Building scalable frontends with **React**, **Next.js** and **Angular**
 - Designing backends and APIs with **Node.js/Express**, **Laravel** and **Flask**
@@ -91,21 +93,6 @@ Full-stack developer from Islamabad, Pakistan, building web and mobile applicati
 | [merchant-portal-new-theme](https://github.com/shehzadasad/merchant-portal-new-theme) | Merchant dashboard for a BNPL / e-commerce platform | React, MUI |
 
 > Browse all repositories on my [profile](https://github.com/shehzadasad?tab=repositories).
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shehzadasad&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehzadasad&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shehzadasad&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
-</div>
 
 ---
 

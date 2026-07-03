@@ -1,4 +1,4 @@
-<!-- Profile README for github.com/shehzadasad -->
+﻿<!-- Profile README for github.com/shehzadasad -->
 
 <div align="center">
 
@@ -106,19 +106,6 @@ Full-stack web developer from Islamabad, Pakistan, building web applications end
 | [merchant-portal-new-theme](https://github.com/shehzadasad/merchant-portal-new-theme) | Merchant dashboard for a BNPL / e-commerce platform | React, MUI |
 
 > Browse all repositories on my [profile](https://github.com/shehzadasad?tab=repositories).
-
----
-
-## Top Languages
-
-```text
-JavaScript   ██████████░░░░░░░░░░░░░░   41.0 %
-TypeScript   █████░░░░░░░░░░░░░░░░░░░   20.4 %
-Blade        ████░░░░░░░░░░░░░░░░░░░░   16.9 %
-CSS          ███░░░░░░░░░░░░░░░░░░░░░   11.3 %
-PHP          ██░░░░░░░░░░░░░░░░░░░░░░    6.7 %
-HTML         █░░░░░░░░░░░░░░░░░░░░░░░    3.1 %
-```
 
 ---
 

@@ -30,8 +30,6 @@
 
 <h2 align="center">👨‍💻 &nbsp;About Me</h2>
 
-> 🛡️ Currently a **Front-End Engineer at Gitlogix**, building **[Mereos](https://mereos.eu)** — an **AI-powered online proctoring platform** with a secure-exam Chrome extension, AI face detection, live video proctoring and LMS dashboards.
-
 Full-stack web developer from Islamabad, Pakistan, building web applications end to end. I work across modern JavaScript/TypeScript frontends and multiple backend stacks, with a strong focus on AI-driven proctoring and fintech products: browser-lockdown extensions, BNPL checkouts, merchant and customer portals, invoicing and financing platforms, and payment-gateway integrations.
 
 - Building scalable frontends with **React**, **Next.js** and **Angular**
@@ -131,8 +129,6 @@ Landing pages, portals and dashboards in React, and e-commerce stores in Angular
 
 <h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
-**🛡️ Current Work — Gitlogix · Mereos (AI Online Proctoring Platform)**
-
 | Project | Description | Tech |
 | --- | --- | --- |
 | **Mereos Proctoring Library** | AI-powered proctoring library that embeds secure remote exam monitoring into any LMS — live video/audio (Twilio), WebRTC (PeerJS) and object detection (TensorFlow.js / COCO-SSD) | JavaScript, TensorFlow.js, Twilio, WebRTC |
@@ -155,6 +151,7 @@ Landing pages, portals and dashboards in React, and e-commerce stores in Angular
 | [qp-mall](https://github.com/shehzadasad/qp-mall) | E-commerce storefront with cart, checkout and account management | React, TypeScript, Redux Toolkit |
 | [customer-portal](https://github.com/shehzadasad/customer-portal) | BNPL customer portal for orders, installments and cards | React, MUI |
 | [merchant-portal-new-theme](https://github.com/shehzadasad/merchant-portal-new-theme) | Merchant dashboard for a BNPL / e-commerce platform | React, MUI |
+| [investor-portal](https://github.com/shehzadasad/investor-portal) | Investment management platform — multi-step KYC onboarding, investor dashboard (deposits, withdrawals, documents) and an admin back office (users, wallets, plans, profit distribution, roles) with JWT auth & token refresh | Next.js 15, MUI, Zustand |
 
 > Browse all repositories on my [profile](https://github.com/shehzadasad?tab=repositories).
 

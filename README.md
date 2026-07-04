@@ -2,16 +2,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=52&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=900&height=100&lines=Shehzad+Asadullah" alt="Shehzad Asadullah" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=52&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=600&height=88&lines=Shehzad+Asadullah" alt="Shehzad Asadullah" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=2E97F8&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Angular;Node.js+%7C+Laravel+%7C+Express;Fintech+%26+Payment+Integrations" alt="Full-Stack Web Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=2E97F8&center=true&vCenter=true&width=560&height=50&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Angular;Node.js+%7C+Laravel+%7C+Express;Fintech+%26+Payment+Integrations" alt="Full-Stack Web Developer" />
 
 <br/>
 
 <p>
   <a href="https://github.com/shehzadasad"><img src="https://img.shields.io/badge/GitHub-shehzadasad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Islamabad,%20Pakistan-2E67F8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=shehzadasad&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
@@ -29,7 +28,7 @@
 
 ---
 
-## About Me
+<h2 align="center">👨‍💻 &nbsp;About Me</h2>
 
 Full-stack web developer from Islamabad, Pakistan, building web applications end to end. I work across modern JavaScript/TypeScript frontends and multiple backend stacks, with a strong focus on fintech products: BNPL checkouts, merchant and customer portals, invoicing and financing platforms, and payment-gateway integrations.
 
@@ -40,7 +39,7 @@ Full-stack web developer from Islamabad, Pakistan, building web applications end
 
 ---
 
-## Tech Stack
+<h2 align="center">🛠️ &nbsp;Tech Stack</h2>
 
 <div align="center">
 
@@ -88,7 +87,25 @@ Full-stack web developer from Islamabad, Pakistan, building web applications end
 
 ---
 
-## Featured Projects
+<h2 align="center">🤖 &nbsp;AI Tools</h2>
+
+<div align="center">
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0B9C85?style=for-the-badge&logo=windsurf&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=v0&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-20B8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
 | Project | Description | Tech |
 | --- | --- | --- |
@@ -105,7 +122,7 @@ Full-stack web developer from Islamabad, Pakistan, building web applications end
 
 ---
 
-## Connect
+<h2 align="center">🤝 &nbsp;Connect</h2>
 
 <div align="center">
 

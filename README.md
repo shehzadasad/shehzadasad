@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=52&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=600&height=88&lines=Shehzad+Asadullah" alt="Shehzad Asadullah" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=2E97F8&center=true&vCenter=true&width=560&height=50&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Angular;Node.js+%7C+Laravel+%7C+Express;Fintech+%26+Payment+Integrations" alt="Full-Stack Web Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=2E97F8&center=true&vCenter=true&width=560&height=50&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Angular;Node.js+%7C+Laravel+%7C+Express;AI+Proctoring+%26+Chrome+Extensions;Fintech+%26+Payment+Integrations" alt="Full-Stack Web Developer" />
 
 <br/>
 
@@ -30,12 +30,36 @@
 
 <h2 align="center">👨‍💻 &nbsp;About Me</h2>
 
-Full-stack web developer from Islamabad, Pakistan, building web applications end to end. I work across modern JavaScript/TypeScript frontends and multiple backend stacks, with a strong focus on fintech products: BNPL checkouts, merchant and customer portals, invoicing and financing platforms, and payment-gateway integrations.
+> 🛡️ Currently a **Front-End Engineer at Gitlogix**, building **[Mereos](https://mereos.eu)** — an **AI-powered online proctoring platform** with a secure-exam Chrome extension, AI face detection, live video proctoring and LMS dashboards.
+
+Full-stack web developer from Islamabad, Pakistan, building web applications end to end. I work across modern JavaScript/TypeScript frontends and multiple backend stacks, with a strong focus on AI-driven proctoring and fintech products: browser-lockdown extensions, BNPL checkouts, merchant and customer portals, invoicing and financing platforms, and payment-gateway integrations.
 
 - Building scalable frontends with **React**, **Next.js** and **Angular**
 - Designing backends and APIs with **Node.js/Express**, **Laravel** and **Flask**
 - Integrating payments and third-party services: **Stripe**, **Square**, **Plaid**, **QuickBooks**, and local gateways
 - Comfortable across the stack: databases, cloud deployment, CI/CD, and monitoring
+
+---
+
+<h2 align="center">💼 &nbsp;Experience</h2>
+
+**🛡️ Front-End Engineer — Gitlogix** &nbsp;·&nbsp; *May 2025 – Present* &nbsp;·&nbsp; Remote
+
+Building **[Mereos](https://mereos.eu)**, an AI-powered online proctoring platform used by universities and enterprises:
+
+- **Secure-exam Chrome/Chromium extension** with full browser lockdown — tab-switch, focus-loss, clipboard & right-click prevention and live monitoring
+- **AI identity & anti-cheating** detection with TensorFlow.js, COCO-SSD, MediaPipe and face-api.js
+- Real-time **video / audio / screen sharing** via the Twilio Video SDK and WebRTC (PeerJS)
+- **Recruiter & candidate LMS dashboards** (React + Redux) — assessment creation, live proctoring, analytics and PDF/Excel reporting
+- Multilingual (i18next) UIs with **Sentry** monitoring in production
+
+**Front-End Engineer — Harvv Financing** &nbsp;·&nbsp; *Aug 2022 – May 2025* &nbsp;·&nbsp; Remote
+
+Next.js website with Builder.io A/B testing, a **96% faster** 1-Click Checkout iFrame (React + TS), payment integrations (PayPal, Sezzle, CardPointe, Uplift, Foree), and a **92% faster** Merchant Portal.
+
+**Front-End Engineer — Codeaza Technologies** &nbsp;·&nbsp; *Nov 2021 – Aug 2022* &nbsp;·&nbsp; On-site
+
+Landing pages, portals and dashboards in React, and e-commerce stores in Angular.
 
 ---
 
@@ -106,6 +130,20 @@ Full-stack web developer from Islamabad, Pakistan, building web applications end
 ---
 
 <h2 align="center">🚀 &nbsp;Featured Projects</h2>
+
+**🛡️ Current Work — Gitlogix · Mereos (AI Online Proctoring Platform)**
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| **Mereos Proctoring Library** | AI-powered proctoring library that embeds secure remote exam monitoring into any LMS — live video/audio (Twilio), WebRTC (PeerJS) and object detection (TensorFlow.js / COCO-SSD) | JavaScript, TensorFlow.js, Twilio, WebRTC |
+| **Secure-Exam Chrome Extension** | Chrome/Chromium extension that locks down the browser during exams — tab-switch & focus detection, live proctoring and AI face detection (TensorFlow.js, MediaPipe, face-api.js) | React, TensorFlow.js, MediaPipe, Twilio |
+| **Recruiter Dashboard (LMS)** | Recruiter LMS to build assessments and monitor AI-proctored exams live, with analytics, chat and PDF/Excel reporting | React, Redux, ApexCharts, TalkJS |
+| **Candidate Dashboard (LMS)** | Candidate LMS for AI-proctored exams — guided system prechecks, webcam/screen capture (RecordRTC) and a multilingual test-taking flow | React, Redux, RecordRTC, WebRTC |
+| **Mereos Extension Website** | Marketing & support site dedicated to the Mereos extension, with full internationalization | React, Tailwind CSS, i18next |
+
+<sub>🔒 Mereos products are proprietary company work, so source links are omitted.</sub>
+
+**🌐 Open-Source & Personal Projects**
 
 | Project | Description | Tech |
 | --- | --- | --- |
